@@ -21,12 +21,9 @@ Ratio of production cost to profit, expressed as ROI
 
 # Analysis and Findings
 ### Seasons
-Our analysis indicates that summer, fall, and winter are the best seasons for releasing a movie without considering other factors, though the ideal timing varies significantly depending on the movie's genre.
+Our analysis indicates that October is the best month for releasing a horror movie without considering other factors.
 <img width="1021" alt="Screenshot 2024-01-04 at 3 16 34 PM" src="https://github.com/WesleyDickens/dsc-phase-2-project-v3/assets/8894178/b7ac1f5e-fd1a-4c88-b698-b28e18f13320">
 
-### Film Length
-We can say with confidence that movies lasting between 1 to 1.5 hours are the most recommended in terms of length
-<img width="1019" alt="Screenshot 2024-01-04 at 3 16 42 PM" src="https://github.com/WesleyDickens/dsc-phase-2-project-v3/assets/8894178/bdd99b04-d4e1-4c77-994b-95ad38253b03">
 
 ### Directors
 Based on current box office trends, we recommend producing movies directed by either Tod Williams or William Bell, both of which specialize in "found-film horror"
