@@ -20,9 +20,9 @@ Recommendations for financially successful movie characteristics, based on curre
 Ratio of production cost to profit, expressed as ROI
 
 # Analysis and Findings
-### Seasons
+### Month
 Our analysis indicates that October is the best month for releasing a horror movie without considering other factors.
-<img width="1021" alt="Screenshot 2024-01-04 at 3 16 34 PM" src="https://github.com/WesleyDickens/dsc-phase-2-project-v3/assets/8894178/b7ac1f5e-fd1a-4c88-b698-b28e18f13320">
+<img width="1020" alt="Screenshot 2024-01-05 at 3 05 01 PM" src="https://github.com/Nhunsick/dsc-phase-2-project-v3/assets/140007961/0d35d098-7c71-4d41-a531-5c2a5f392bd2">
 
 
 ### Directors
