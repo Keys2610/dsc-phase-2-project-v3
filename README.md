@@ -1,3 +1,6 @@
+# How to Navigate this Repo
+This repo has 3 main folders, zipped data which contains our zipped data files, notebooks which contains all of our jupyter notebooks with our work in them, and images where we have saved pngs and jpegs of our data visualizations. Our final notebook is named Final_Phase_2_Project_Notebook and contains an explanation of our project's lifecycle.
+
 # Purpose
 Recommendations for financially successful movie characteristics, based on current box office trends.
 
